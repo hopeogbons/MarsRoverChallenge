@@ -25,9 +25,13 @@ The output for each rover should be its final coordinates and heading.
 Input:
 ```
 5 5
+
 1 2 N
+
 LMLMLMLMM
+
 3 3 E
+
 MMRMMRMRRM
 ```
 
